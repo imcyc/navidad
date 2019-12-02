@@ -1,13 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+
 .App {
   text-align: center;
+  font-family: 'Great Vibes', cursive;
 }
 
 .App-logo {
-  height: 40vmin;
+  position: fixed;
+  top: 0;
+  width: 200px;
+  margin-top: 20px;
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -15,8 +20,29 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url(./bkg.jpg);
+  background-size: cover;
+  background-position: center center;
+
 }
 
 .App-link {
   color: #09d3ac;
+}
+
+.imcyc {
+  color: #ffffff;
+  fill: #ffffff !important;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  font-size: 1.5em;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 3em;
 }
