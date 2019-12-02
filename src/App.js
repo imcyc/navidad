@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import bkg from './bkg.jpg';
 import './App.css';
+import SWMovies from './SWMovies';
 
 function App() {
   return (
