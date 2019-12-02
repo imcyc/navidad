@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/navidad/static/css/main.b100e6da.chunk.css",
-    "main.js": "/navidad/static/js/main.b0a0fa83.chunk.js",
-    "main.js.map": "/navidad/static/js/main.b0a0fa83.chunk.js.map",
+    "main.css": "/navidad/static/css/main.908e4848.chunk.css",
+    "main.js": "/navidad/static/js/main.3a5adfbf.chunk.js",
+    "main.js.map": "/navidad/static/js/main.3a5adfbf.chunk.js.map",
     "runtime-main.js": "/navidad/static/js/runtime-main.a19c6546.js",
     "runtime-main.js.map": "/navidad/static/js/runtime-main.a19c6546.js.map",
     "static/js/2.ec24fd31.chunk.js": "/navidad/static/js/2.ec24fd31.chunk.js",
     "static/js/2.ec24fd31.chunk.js.map": "/navidad/static/js/2.ec24fd31.chunk.js.map",
     "index.html": "/navidad/index.html",
-    "precache-manifest.e0cd6ba01aa99c02f1da561ee4a257c0.js": "/navidad/precache-manifest.e0cd6ba01aa99c02f1da561ee4a257c0.js",
+    "precache-manifest.11b0af2f59eee5bc52d5af567534e4ae.js": "/navidad/precache-manifest.11b0af2f59eee5bc52d5af567534e4ae.js",
     "service-worker.js": "/navidad/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/navidad/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/navidad/static/media/logo.25bf045c.svg"
+    "static/css/main.908e4848.chunk.css.map": "/navidad/static/css/main.908e4848.chunk.css.map",
+    "static/media/App.css": "/navidad/static/media/bkg.4859f29a.jpg",
+    "static/media/logo.svg": "/navidad/static/media/logo.1c061645.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a19c6546.js",
     "static/js/2.ec24fd31.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.b0a0fa83.chunk.js"
+    "static/css/main.908e4848.chunk.css",
+    "static/js/main.3a5adfbf.chunk.js"
   ]
 }
