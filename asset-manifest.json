@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/navidad/static/css/main.908e4848.chunk.css",
-    "main.js": "/navidad/static/js/main.e72ab8bd.chunk.js",
-    "main.js.map": "/navidad/static/js/main.e72ab8bd.chunk.js.map",
+    "main.css": "/navidad/static/css/main.074afe36.chunk.css",
+    "main.js": "/navidad/static/js/main.10ba8749.chunk.js",
+    "main.js.map": "/navidad/static/js/main.10ba8749.chunk.js.map",
     "runtime-main.js": "/navidad/static/js/runtime-main.a19c6546.js",
     "runtime-main.js.map": "/navidad/static/js/runtime-main.a19c6546.js.map",
-    "static/js/2.372df178.chunk.js": "/navidad/static/js/2.372df178.chunk.js",
-    "static/js/2.372df178.chunk.js.map": "/navidad/static/js/2.372df178.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/navidad/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.4cc08c7e.chunk.js": "/navidad/static/js/2.4cc08c7e.chunk.js",
+    "static/js/2.4cc08c7e.chunk.js.map": "/navidad/static/js/2.4cc08c7e.chunk.js.map",
     "index.html": "/navidad/index.html",
-    "precache-manifest.eeb952a3d6d50a5790d5d319c5182f3c.js": "/navidad/precache-manifest.eeb952a3d6d50a5790d5d319c5182f3c.js",
+    "precache-manifest.76537be34f95cdcea6429035506ee933.js": "/navidad/precache-manifest.76537be34f95cdcea6429035506ee933.js",
     "service-worker.js": "/navidad/service-worker.js",
-    "static/css/main.908e4848.chunk.css.map": "/navidad/static/css/main.908e4848.chunk.css.map",
-    "static/media/App.css": "/navidad/static/media/bkg.4859f29a.jpg",
+    "static/css/2.17e5ed98.chunk.css.map": "/navidad/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.074afe36.chunk.css.map": "/navidad/static/css/main.074afe36.chunk.css.map",
+    "static/media/bkg.jpg": "/navidad/static/media/bkg.4859f29a.jpg",
+    "static/media/bkg1.jpg": "/navidad/static/media/bkg1.9c5116ad.jpg",
+    "static/media/bkg2.jpg": "/navidad/static/media/bkg2.1e19d947.jpg",
+    "static/media/bkg3.jpg": "/navidad/static/media/bkg3.f2e2aa6b.jpg",
+    "static/media/bkg4.jpg": "/navidad/static/media/bkg4.67ead935.jpg",
+    "static/media/bkg5.jpg": "/navidad/static/media/bkg5.309fad8d.jpg",
+    "static/media/bkg6.jpg": "/navidad/static/media/bkg6.bf0befb9.jpg",
     "static/media/logo.svg": "/navidad/static/media/logo.1c061645.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a19c6546.js",
-    "static/js/2.372df178.chunk.js",
-    "static/css/main.908e4848.chunk.css",
-    "static/js/main.e72ab8bd.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.4cc08c7e.chunk.js",
+    "static/css/main.074afe36.chunk.css",
+    "static/js/main.10ba8749.chunk.js"
   ]
 }
