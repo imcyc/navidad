@@ -1,12 +1,13 @@
 import React from 'react';
+import Carousel from './Carousel';
 import logo from './logo.svg';
-import bkg from './bkg.jpg';
 import './App.css';
 import SWMovies from './SWMovies';
 
 function App() {
   return (
     <div className="App">
+      <Carousel />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>El Instituto Mexicano del Cemento y del Concreto A.C.</p>

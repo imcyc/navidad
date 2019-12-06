@@ -20,10 +20,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  /*
   background-image: url(./bkg.jpg);
   background-size: cover;
   background-position: center center;
-
+  */
 }
 
 .App-link {
