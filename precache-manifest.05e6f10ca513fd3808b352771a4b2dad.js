@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4dbe22289a0d53bf00de4ad841cb0778",
+    "revision": "b52a7e884046017f984ac21125da6902",
     "url": "/navidad/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/navidad/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "1e5e794504f40e21fe7c",
-    "url": "/navidad/static/css/main.37053bcd.chunk.css"
+    "revision": "e5d1a239dbc99ae16bb3",
+    "url": "/navidad/static/css/main.5879cb61.chunk.css"
   },
   {
     "revision": "197a8cd002f2374885e3",
     "url": "/navidad/static/js/2.8029d693.chunk.js"
   },
   {
-    "revision": "1e5e794504f40e21fe7c",
-    "url": "/navidad/static/js/main.c093bf9c.chunk.js"
+    "revision": "e5d1a239dbc99ae16bb3",
+    "url": "/navidad/static/js/main.380a3542.chunk.js"
   },
   {
     "revision": "ec5176586c86fd7b5d12",
