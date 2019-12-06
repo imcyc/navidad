@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/navidad/static/css/main.c4368a47.chunk.css",
+    "main.css": "/navidad/static/css/main.0d3386b1.chunk.css",
     "main.js": "/navidad/static/js/main.c093bf9c.chunk.js",
     "main.js.map": "/navidad/static/js/main.c093bf9c.chunk.js.map",
     "runtime-main.js": "/navidad/static/js/runtime-main.a19c6546.js",
@@ -9,10 +9,10 @@
     "static/js/2.8029d693.chunk.js": "/navidad/static/js/2.8029d693.chunk.js",
     "static/js/2.8029d693.chunk.js.map": "/navidad/static/js/2.8029d693.chunk.js.map",
     "index.html": "/navidad/index.html",
-    "precache-manifest.7d15f0deb714d4af7d8de68c8e75f22c.js": "/navidad/precache-manifest.7d15f0deb714d4af7d8de68c8e75f22c.js",
+    "precache-manifest.5e06b87235c3117f18c3f9077512fe09.js": "/navidad/precache-manifest.5e06b87235c3117f18c3f9077512fe09.js",
     "service-worker.js": "/navidad/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/navidad/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.c4368a47.chunk.css.map": "/navidad/static/css/main.c4368a47.chunk.css.map",
+    "static/css/main.0d3386b1.chunk.css.map": "/navidad/static/css/main.0d3386b1.chunk.css.map",
     "static/media/bkg.jpg": "/navidad/static/media/bkg.4859f29a.jpg",
     "static/media/bkg1.jpg": "/navidad/static/media/bkg1.9c5116ad.jpg",
     "static/media/bkg2.jpg": "/navidad/static/media/bkg2.1e19d947.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.a19c6546.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.8029d693.chunk.js",
-    "static/css/main.c4368a47.chunk.css",
+    "static/css/main.0d3386b1.chunk.css",
     "static/js/main.c093bf9c.chunk.js"
   ]
 }
