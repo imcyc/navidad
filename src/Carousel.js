@@ -13,7 +13,7 @@ function ControlledCarousel() {
   return (
     <>
       <div className="filtro"></div>
-      <Carousel fade={true} controls={false}>
+      <Carousel fade={true} controls={true}>
       <Carousel.Item>
         <img
           className="d-block w-100 min-vh-100"
@@ -88,7 +88,7 @@ function ControlledCarousel() {
         <Carousel.Caption>
           <p>El Instituto Mexicano del Cemento y del Concreto A.C.</p>
           <p>Les Desea</p>
-          <h3>¡Felices fiestas!</h3>
+          <h3 style={{color: '#000000 !important'}}>¡Felices fiestas!</h3>
           <p>Mejor que regalos bajo un árbol de navidad es la presencia de una familia feliz a su alrededor.</p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -101,7 +101,7 @@ function ControlledCarousel() {
         <Carousel.Caption>
           <p>El Instituto Mexicano del Cemento y del Concreto A.C.</p>
           <p>Les Desea</p>
-          <h3>¡Feliz Año Nuevo!</h3>
+          <h3 style={{color: '#000000 !important'}}>¡Feliz Año Nuevo!</h3>
           <p>Te deseamos un venturoso año 2020 en el que se cumplan todos tus deseos e ilusiones.</p>
         </Carousel.Caption>
       </Carousel.Item>
