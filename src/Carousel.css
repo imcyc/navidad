@@ -4,8 +4,6 @@
   z-index: -1;
   top: 0;
   opacity: 1;
-  display: flex;
-  
 }
 
 .filtro {
@@ -18,7 +16,10 @@
   z-index: -1;
 }
 
-
+.carousel-caption {
+  top: 50%;
+transform: translateY(-40%);
+}
 
 .carousel-caption h3 {
   padding: 0;
